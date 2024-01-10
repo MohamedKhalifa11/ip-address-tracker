@@ -1,11 +1,11 @@
 .info {
-  position: fixed;
+  position: absolute;
   display: flex;
   flex-direction: row;
   padding: 2rem 0;
   width: 75%;
   background-color: #fff;
-  top: 40%;
+  top: 35%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 999;
@@ -44,7 +44,7 @@
 @media (max-width: 810px) {
   .info {
     flex-direction: column;
-    transform: translate(-50%, -40%);
+    transform: translate(-50%, -30%);
     padding: 0;
   }
 

@@ -35,7 +35,7 @@ function LeafletMap({ locationMap }) {
       key={position}
       center={position}
       zoom={12}
-      style={{ height: "65vh", width: "100%" }}
+      style={{ height: "70vh", width: "100%" }}
       animate={true}
       minZoom={3}
       maxZoom={18}
