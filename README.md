@@ -1,6 +1,6 @@
 # IP Address Tracker
 
-This project is a solution to the [Frontend Mentor](https://www.frontendmentor.io/) Intermediate challenge - [IP Address Tracker](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0).
+This project is a solution to the Frontend Mentor: [IP Address Tracker](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0) - Intermediate challenge.
 
 ## Overview
 
@@ -8,9 +8,11 @@ The IP Address Tracker allows users to input an IP address or domain and retriev
 
 ## Features
 
+- **Data Fetching:** The project dynamically fetches IP address information from an external API, providing real-time and accurate data for the displayed location details.
 - **Search Form:** Input field to search for any IP address or domain.
 - **Map Display:** Visual representation of the location on an interactive map.
 - **Information Card:** Display details such as IP address, location, timezone, and ISP.
+
 
 ## Tech Stack
 
@@ -18,7 +20,7 @@ The IP Address Tracker allows users to input an IP address or domain and retriev
 - CSS
 - React
 - [Ip API](https://ipapi.co/)
-- Leaflet for maps
+- [React Leaflet](https://react-leaflet.js.org/) for maps
 - SweetAlert2 for alerts
 
 ## Usage
@@ -33,7 +35,7 @@ The IP Address Tracker allows users to input an IP address or domain and retriev
 
 ## Credits
 
-- **Frontend Mentor:** [Challenge Link](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
+- **Frontend Mentor:** [My Solution Link](https://www.frontendmentor.io/solutions/ip-address-tracker-using-react-gtAIPWuGuB)
 - **Author:** Mohamed Khalifa
 
 Feel free to provide additional details, such as how to contribute, known issues, or any other relevant information about your project.
