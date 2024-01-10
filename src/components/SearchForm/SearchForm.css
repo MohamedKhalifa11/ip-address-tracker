@@ -4,7 +4,7 @@
   padding: 1.25rem;
 }
 
-.search-container h2 {
+.search-container h1 {
   color: #fff;
   font-weight: 500;
 }
@@ -30,10 +30,10 @@
 
 .search-container button {
   padding: 1rem;
-  border: 2px solid hsl(0, 0%, 17%);
+  border: 2px solid #000;
   border-top-right-radius: .75rem;
   border-bottom-right-radius: .75rem;
-  background-color: hsl(0, 0%, 17%);
+  background-color: #000;
   cursor: pointer;
   transition: all .25s ease-in-out;
 }

@@ -13,7 +13,7 @@ function SearchForm({ onSearch }) {
   };
   return (
     <div className="search-container">
-      <h2>IP Address Tracker</h2>
+      <h1>IP Address Tracker</h1>
       <form onSubmit={handleSearch}>
         <input
           type="text"
