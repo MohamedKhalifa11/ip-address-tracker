@@ -31,7 +31,7 @@ The IP Address Tracker allows users to input an IP address or domain and retriev
 
 ## Demo
 
-[Live Demo](https://www.frontendmentor.io/solutions/ip-address-tracker-using-react-gtAIPWuGuB)
+[Live Demo](https://ip-address-tracker-m11.netlify.app/)
 
 ## Credits
 
