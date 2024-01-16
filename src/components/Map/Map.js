@@ -40,11 +40,9 @@ function LeafletMap({ locationMap }) {
       minZoom={3}
       maxZoom={18}
       zoomControl={false}
+      attributionControl={false}
     >
-      <TileLayer
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        attribution="&copy; OpenStreetMap contributors"
-      />
+      <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
       {locationMap && (
         <Marker position={position} icon={customIcon}>
           <Popup>Your Location</Popup>
