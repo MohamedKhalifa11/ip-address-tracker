@@ -4,7 +4,7 @@ This project is a solution to the Frontend Mentor: [IP Address Tracker](https://
 
 ## Overview
 
-The IP Address Tracker allows users to input an IP address or domain and retrieve information about the location, timezone, and ISP associated with that IP address.
+The IP Address Tracker allows users to input an IP address or domain and retrieve information about the location in the map, timezone, and ISP associated with that IP address.
 
 ## Features
 
