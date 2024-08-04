@@ -38,4 +38,6 @@ The IP Address Tracker allows users to input an IP address or domain and retriev
 - **Frontend Mentor:** [My Solution Link](https://www.frontendmentor.io/solutions/ip-address-tracker-using-react-gtAIPWuGuB)
 - **Author:** Mohamed Khalifa
 
+## NOTE: Make sure to disable AdBlocker if you have one. 
+
 Feel free to provide additional details, such as how to contribute, known issues, or any other relevant information about your project.
